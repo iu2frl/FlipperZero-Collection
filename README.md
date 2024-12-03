@@ -2,9 +2,8 @@
 
 A curated collection of interesting files for the Flipper Zero device, intended solely for educational purposes.
 
-## Original creator
-
-This repo was originally forked from [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB). I then reordered some files and added some from different repos or personal captures around the world
+> [!NOTE]
+> By using this repository, you agree to adhere to these terms and accept full responsibility for your actions.
 
 ## ⚠️ Disclaimer
 
@@ -26,5 +25,6 @@ This repo was originally forked from [Zero-Sploit/FlipperZero-Subghz-DB](https:/
 > 5. **Safety Precautions**:  
 >    Always prioritize safety. Improper use of wireless tools can disrupt communications and create hazards. Ensure you're operating within legal frequency bands and power limits.
 
-> [!NOTE]
-> **By using this repository, you agree to adhere to these terms and accept full responsibility for your actions.**
+## Original creator
+
+This repo was originally forked from [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB). I then reordered some files and added some from different repos or personal captures around the world
