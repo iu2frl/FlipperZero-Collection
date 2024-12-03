@@ -3,6 +3,9 @@
 A curated collection of interesting files for the Flipper Zero device, intended solely for educational purposes.
 
 > [!NOTE]
+> You can see this repo as a backup of my Flipper Zero, files are picked from different sources (most of which are in the relative `README.md` files). I do not take any commitment to keep this repo updated or synched but you're free to open MRs to improve it.
+
+> [!IMPORTANT]
 > By using this repository, you agree to adhere to these terms and accept full responsibility for your actions.
 
 ## ⚠️ Disclaimer
