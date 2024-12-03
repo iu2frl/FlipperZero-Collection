@@ -1,0 +1,16 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Lat: 0.000000
+Lon: 0.000000
+Protocol: Oregon-v1
+Id: 4
+Bit: 32
+Data: 00 00 00 00 20 8A 01 AB
+Batt: 0
+Hum: 255
+Ts: 1733259798
+Ch: 1
+Btn: 255
+Temp: 5.100000
